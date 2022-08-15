@@ -1,6 +1,7 @@
 # CompanyProfile
 Sebuah project kelompok tentang Company Profile Website yang responsive dengan menggunakan HTML, CSS, dan JavaScript
 
+## Interface
 -Home Page
   ![Web capture_14-8-2022_14428_127 0 0 1](https://user-images.githubusercontent.com/90300637/184526529-95692a6b-96d6-41b2-8311-2b5446187e28.jpeg)
 -Company Page
