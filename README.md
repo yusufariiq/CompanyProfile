@@ -1,6 +1,6 @@
 # CompanyProfile
 Sebuah project kelompok tentang Company Profile Website yang responsive dengan menggunakan HTML, CSS, dan JavaScript
-Link https://companyprofile-agenz.ariiqyusuf.repl.co/
+https://companyprofile-agenz.ariiqyusuf.repl.co/
 
 ## Interface
 -Home Page
